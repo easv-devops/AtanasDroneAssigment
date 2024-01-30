@@ -23,3 +23,4 @@ C:\Users\Atanas Stoyanov\OneDrive - Erhvervsakademi Sydvest\Skrivebord\AtanasDro
 C:\Users\Atanas Stoyanov\OneDrive - Erhvervsakademi Sydvest\Skrivebord\AtanasDrone\AtanasDrone\obj\Debug\net7.0\AtanasDrone.pdb
 C:\Users\Atanas Stoyanov\OneDrive - Erhvervsakademi Sydvest\Skrivebord\AtanasDrone\AtanasDrone\obj\Debug\net7.0\AtanasDrone.genruntimeconfig.cache
 C:\Users\Atanas Stoyanov\OneDrive - Erhvervsakademi Sydvest\Skrivebord\AtanasDrone\AtanasDrone\obj\Debug\net7.0\ref\AtanasDrone.dll
+C:\Users\Atanas Stoyanov\OneDrive - Erhvervsakademi Sydvest\Skrivebord\AtanasDrone\AtanasDrone\obj\Debug\net7.0\AtanasDrone.sourcelink.json
